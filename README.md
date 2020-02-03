@@ -1,2 +1,2 @@
-# confluence-plugin-cloud
-confluence-plugin-cloud
+# jira-plugin-cloud
+jira-plugin-cloud
