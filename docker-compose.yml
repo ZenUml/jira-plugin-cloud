@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+  firebase-tools:
+    image: andreysenov/firebase-tools
+    volumes:
+      - .:/home/node/app
+      - ~/.config:/home/node/.config
+      - ~/.cache:/home/node/.cache
+    working_dir: /home/node/app
